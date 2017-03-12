@@ -1,6 +1,9 @@
 _repo: Catriona_589
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: David Balfour
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -14,6 +17,8 @@ description: Bloody murder, conspiracy, treachery and escape are all themes in t
   sequel to "Kidnapped". David Balfour, the hero of the earlier book, is again the
   narrator, and through his eyes the reader gains insight into the aftermath of Bonnie
   Prince Charlie's defeat at Culloden.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/589#Catriona
 gutenberg_bookshelf:
 - Historical Fiction
 - Adventure
